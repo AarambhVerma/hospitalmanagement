@@ -1,6 +1,5 @@
 # Hospital Management
-![developer](Rinkal Mistry-blue)
-
+Developed by Rinkal Mistry
 ---
 ## Functions
 ### Admin
