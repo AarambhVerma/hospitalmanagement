@@ -61,10 +61,5 @@ https://myaccount.google.com/lesssecureapps
 - There should be at least one doctor in hospital before admitting patient. So first add doctor.
 - On update page of doctor/patient you must have to update password.
 
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
-
-### Developer: Rinkal Mistry
+### Developed By
+- Rinkal Mistry
